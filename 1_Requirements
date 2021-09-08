@@ -1,7 +1,0 @@
-INTRODUCTION:This project is an example game written in C based on the game called 'Snake'.
-It is not famous game, but it does give us an idea of what we can achieve with a relatively simple C program.
-OBJECTIVE:The Main Objective of this game is to collect the dots(food) and avoid the obstacles(Crosses,borders,and the snake itself).
-when you have collected enough food,your progress onton the next level.
-REQUIREMENTS: C Language
-It Satisfies the player's interest in game
-
