@@ -1,2 +1,2 @@
 # stepin_File-Handling-project-in-C
-[![GitHub issues](https://img.shields.io/github/issues/Mandaram-Harshitha/stepin_File-Handling-project-in-C)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Mandaram-Harshitha/stepin_File-Handling-project-in-C)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C/issues) [![GitHub forks](https://img.shields.io/github/forks/Mandaram-Harshitha/stepin_File-Handling-project-in-C)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C/network)
