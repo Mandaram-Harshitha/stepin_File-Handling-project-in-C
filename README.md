@@ -1,2 +1,4 @@
 # stepin_File-Handling-project-in-C
 [![GitHub issues](https://img.shields.io/github/issues/Mandaram-Harshitha/stepin_File-Handling-project-in-C)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C/issues) [![GitHub forks](https://img.shields.io/github/forks/Mandaram-Harshitha/stepin_File-Handling-project-in-C)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C/network) [![GitHub stars](https://img.shields.io/github/stars/Mandaram-Harshitha/stepin_File-Handling-project-in-C?style=for-the-badge)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C/stargazers) [![GitHub license](https://img.shields.io/github/license/Mandaram-Harshitha/stepin_File-Handling-project-in-C?style=social)](https://github.com/Mandaram-Harshitha/stepin_File-Handling-project-in-C)
+https://www.code-inspector.com/project/28070/score/svg
+https://www.code-inspector.com/project/28070/status/svg
